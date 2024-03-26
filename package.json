@@ -1,0 +1,24 @@
+{
+   "name": "acitvity-tracker",
+   "version": "0.0.1",
+   "description": "configurable activity tracker for ur app , website and exporting data in several formats",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/7odadocoding/activity-tracker.git"
+   },
+   "keywords": [
+      "activity",
+      "tracker"
+   ],
+   "author": "7odadocoding",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/7odadocoding/activity-tracker/issues"
+   },
+   "homepage": "https://github.com/7odadocoding/activity-tracker#readme"
+}
